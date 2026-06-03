@@ -9,7 +9,7 @@ I am an aspiring frontend developer and software enginee passionate about creati
 ### Links
 
 - Solution URL: [Github](https://github.com/hiwot-one23)
-- Live Site URL: [Live Site](https://github.com/hiwot-one23/coffee-shope.git)
+- Live Site URL: [Live Site](https://github.com/hiwot-one23/-Portfolio.git)
 
 ## My process
 
